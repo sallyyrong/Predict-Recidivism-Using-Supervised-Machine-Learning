@@ -12,11 +12,11 @@
   </h2>
 <h3>
   <strong>
-  write-up.html
+  write-up.pdf
   </strong>
   </h3> 
   <p>
-    This is the write-up that communicate the results of our project. It including visual outputs of our written code in R, and data visualizations.
+    This is the write-up that communicates the results of our project. It including visual outputs of our written code in R, and data visualizations of the three models employed, in addition to tables and graphs.
 
 <h3>
   <strong>
